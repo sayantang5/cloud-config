@@ -1,6 +1,5 @@
-   
- datasource.url=jdbc:mysql://localhost:3306/msprojectdb?allowPublicKeyRetrieval=true&useSSL=false
+employee-service.datasource.url=jdbc:mysql://localhost:3306/msprojectdb?allowPublicKeyRetrieval=true&useSSL=false
 
-datasource.username=root
-datasource.password=root
-datasource.dialect=org.hibernate.dialect.MySQL5InnoDBDialect
+employee-service.datasource.username=root
+employee-service.datasource.password=root
+employee-service.datasource.dialect=org.hibernate.dialect.MySQL5InnoDBDialect
